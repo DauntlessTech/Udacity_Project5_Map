@@ -1,7 +1,7 @@
 This is a class project made to demonstrate my javascript skills and knowledge of api integration. It utilizes local JSON requests, Google Maps api v3, and Knockout.js framework, and foursquare api.
 
 Author: Zachary Foutz
-Last stable release: 10-7-15 16.00 PST
+Last stable release: 10-8-15 00.00 PST
 
 For a live version head to http://www.zacharyfoutz.com/PROJECTS/map/v2.0
 
