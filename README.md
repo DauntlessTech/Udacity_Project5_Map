@@ -17,4 +17,11 @@ For a live version head to http://www.zacharyfoutz.com/PROJECTS/map/v2.0
 
 6. Bookmarks can be made by clicking the icon next to any venue, likewise removing bookmarks is as easy as clicking on their corresponding icon
 
-7. Enjoy and please contact me if you have any questions, comments, or praise. :)
+8. Refine results by name using the refine results search bar, start with the first letter of the name you are looking for
+
+9. Enjoy and please contact me if you have any questions, comments, or praise. :)
+
+>> Ideas
+    -- Make refiner also searchable by address phone or twitter handle
+    -- Make a function that will sort the list from a-z, z-a
+    -- Add user accounts to store bookmarks. Meteor?
