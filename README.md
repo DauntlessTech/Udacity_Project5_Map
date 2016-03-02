@@ -23,6 +23,6 @@ For a live version head to http://www.zacharyfoutz.com/PROJECTS/map/v2.0
 
 Ideas
 >>
-    -- Make refiner also searchable by address phone or twitter handle
-    -- Make a function that will sort the list from a-z, z-a
-    -- Add user accounts to store bookmarks. Meteor?
+  Make refiner also searchable by address phone or twitter handle
+  Make a function that will sort the list from a-z, z-a
+  Add user accounts to store bookmarks. Meteor?
